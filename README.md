@@ -1,4 +1,4 @@
-Hi, I'm XYZ 👋
+Hi, I'm Ardra👋
 B.Voc Graduate | Software Developer | Technology Enthusiast
 
 I'm a B.Voc Software Development graduate with 2+ years of experience in software development and technical support. I enjoy building practical applications, solving technical problems, and continuously exploring new technologies.
